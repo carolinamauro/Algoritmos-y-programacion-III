@@ -1,5 +1,5 @@
 # Algoritmos-y-programacion-III
-2022 1C - Juarez
+2022 1C - Suarez
 
 Nada para compentar, materia sufida. Dejo mi aporte
 
